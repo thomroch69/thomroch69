@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Software consultant currently pursuing a part time degree in Computer Science.
+
 <!--
 **thomroch69/thomroch69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
